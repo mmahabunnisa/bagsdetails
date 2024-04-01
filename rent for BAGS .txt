@@ -1,0 +1,7 @@
+rent for BAGS 
+
+duffle bags_rent for 1 hr= 50 rs/-
+Backpacks_ rent for 1 hr=75rs/-
+Wheeled luggage_ rent for 1 hr=100rs/-
+Suitcases_ rent for 1 hr=150rs/-
+hand luggage_rent for 1 hr=180rs/-
